@@ -1,2 +1,3 @@
 # Final-Project-Repository
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+These visualizations were necessary because they help connect data of subsets from the dataset to get a clear analysis.
